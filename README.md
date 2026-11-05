@@ -86,3 +86,11 @@ House price prediction using Linear Regression.
 <p align="center">
   <i>Building. Learning. Improving. 🚀</i>
 </p>
+
+
+
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kushwahaditya070-design/kushwahaditya070-design/output/github-snake.svg"
+       alt="GitHub Contribution Snake" />
+</p>
